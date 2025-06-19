@@ -11,7 +11,7 @@ body {
 /* inicio do cabeçalho */
 
 header {
-    background-image: url(imagens/bg-3.jpg);
+    background-image: url(bg-3.jpg);
     height: 500px;
     background-size: cover;
     background-position: right center;
