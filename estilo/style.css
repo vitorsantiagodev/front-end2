@@ -25,6 +25,7 @@ header {
     color: white ;
     font-size: 3em;
     text-shadow: 2px 2px 2px black;
+    text-transform: uppercase;
 }
 
 .p1 {
