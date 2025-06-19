@@ -17,7 +17,6 @@ header {
     background-position: right center;
     padding-top: 10px;
     margin-bottom: 50px;
-    margin-bottom: 20px
 } 
 
 .titulo1 {
@@ -25,6 +24,7 @@ header {
     margin-top: 170px;
     color: white ;
     font-size: 3em;
+    text-shadow: 2px 2px 2px black;
 }
 
 .p1 {
