@@ -98,7 +98,6 @@ header {
 
     .html {  
         width: 75%;
-        min-width: 400px;
         max-width: 860px;
         margin: auto;
         background-color: white;
@@ -110,7 +109,6 @@ header {
 
     .css {
         width: 75%;
-        min-width: 400px;
         max-width: 860px;
         margin: auto;
         background-color: white; 
@@ -121,7 +119,6 @@ header {
 
     .javascript {
         width: 75%;
-        min-width: 400px;
         max-width: 860px;
         margin: auto;
         background-color: white;
@@ -134,7 +131,7 @@ header {
         background-color: #ccc;
         color: blue;
         text-decoration: none;
-        padding: 12px;
+        padding:12px;
         border-radius: 3px;
     }
      /* fim do article */
